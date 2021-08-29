@@ -2,7 +2,6 @@
 layout: post
 title:  "Chickpea scramble"
 date:   2020-05-23 08:28:06 +1200
-categories: chickpea scramble flour
 ---
 
 # Chickpea scramble
