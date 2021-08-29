@@ -38,4 +38,4 @@ Take the fried onions and them to the scumble. Fry it together for another 2 to 
 That's it, the dish is ready to serve. Tastes delicious with toast and avocado.
 
 ### Sample serve
-![](img/chickpea-scramble.jpg)
+![](/img/chickpea-scramble.jpg)
