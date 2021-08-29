@@ -4,8 +4,6 @@ title:  "Chickpea scramble"
 date:   2020-05-23 08:28:06 +1200
 ---
 
-# Chickpea scramble
-
 Breakfast for 2 people
 
 ## Recipe
@@ -29,7 +27,7 @@ Breakfast for 2 people
 Heat up a skillet with some oil and add onion slices. Fry it until translucent. Then add tomote chunks and stirr it for about 2 minutes.
 
 ### Fry the scumble
-Heat up a skillet with a teaspoon of oil and pour in the mixture. It has to cover entire surface and should not be deeper than 1 cm. The mixture is going to thicken from the bottom. Once the bottom of the mixture is ready to flip then cut it into 4 pieces and flip it one by one. When the entire thing is ready to be divided into smaller pieces go for it and make it look like scrambled eggs.
+Heat up a skillet with a teaspoon of oil and pour in the mixture. It has to cover entire surface and should not be deeper than 1 cm. The mixture is going to thicken from the bottom. Once the bottom of the mixture is ready to flip then cut it into 4 pieces and flip it one by one. When the entire thing is no longer liquid and ready to be divided into smaller pieces go for it.
 
 ### Add onions
 Take the fried onions and them to the scumble. Fry it together for another 2 to 3 minutes.
