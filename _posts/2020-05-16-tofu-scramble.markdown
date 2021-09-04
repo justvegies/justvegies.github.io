@@ -38,7 +38,7 @@ Heat up a skillet with a teaspoon of oil. Add crushed tofu and toss it around un
 Take the fried onions and them to the to the tofu. Toss it around, fry it together for another 1 to 2 minutes.
 
 ### Serve
-That's it, the dish is ready to serve. Tastes delicious with toast and tomato.
+That's it, the dish is ready to serve. Tastes delicious with micro greens and tomato on toast.
 
 ### Sample serve
 ![](/img/tofu-scramble.jpg)
