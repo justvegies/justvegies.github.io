@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Waffles"
+date:   2020-05-16 08:28:06 +1200
+---
+
+Yields about 15 round waffles
+
+## Recipe
+
+### Batter - mix together
+- 2 and 1/2 cup almond milk
+- 2 and 1/2 cup plain flour
+- 4 teaspoons baking powder
+- a bit of salt to taste
+- 3 tablespoon sugar
+- 4 tablespoon liquid coconut oil
+
+### Waffle maker
+Preheat waffle maker and add a bit of oil. Pour the batter to form waffles.
+
+### Serve
+Serve with yogurt, fruits, peanut butter, etc.
+
+### Sample serve
+![](/img/waffles.jpg)
