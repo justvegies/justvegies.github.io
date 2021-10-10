@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Crepes"
+date:   2018-11-10 08:28:06 +1200
+---
+
+## Recipe
+
+### Batter - mix together
+- 3 cup almond or soy milk
+- 3/4 cup water
+- 2 and 1/2 cup plain flour
+- 4 teaspoons baking powder
+- a bit of salt to taste
+- 2 tablespoon brown rice sirup
+
+### Waffle maker
+Preheat a skillet and add a bit of oil. Pour thin layer of batter to cover the surface. Don't over dry it.
+
+### Serve
+Serve with yogurt, fruits, peanut butter, etc.
+
+### Sample serve
+![](/img/crepes.jpg)
