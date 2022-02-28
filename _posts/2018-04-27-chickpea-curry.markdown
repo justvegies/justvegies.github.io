@@ -35,4 +35,4 @@ Yields about 7 portions
 Serve with jasmine rice or rice cakes.
 
 ### Sample serve
-![](/img/chickpea-curry.jpg)
+![](/img/peanut-butter-curry.jpg)
