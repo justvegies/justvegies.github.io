@@ -27,3 +27,6 @@ The easy way to do it is to use food processor.
 
 ### The result
 ![](/img/pizza-dough.jpg)
+![](/img/pizza-1.jpg)
+![](/img/pizza-2.jpg)
+![](/img/pizza-3.jpg)
